@@ -1,14 +1,18 @@
 # Payment-Gateway-Integration-TSF
 Task 3 : Payment Gateway Integration - Donation 
 ◇ Create a simple website where payment gateway is integrated.
+
 ◇ There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where
 user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
+
 ◇ Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The
 invoice will contain the amount.
+
 ◇ On any page / email, only basic information is needed.
+
 ◇ Create your own temporary / sandbox / testing accounts with 3rd party for integrations.
-◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. 
-Check in code in gitlab.
+
+◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
 ![Home Page](https://user-images.githubusercontent.com/77893513/126335544-e02b8480-23cc-4be2-984c-ed8597677ccc.jpg)
 ![Info Page](https://user-images.githubusercontent.com/77893513/126335525-4a8c2e33-0945-457c-a4b0-8dbcf9d93c05.jpg)
