@@ -1,0 +1,54 @@
+body{
+    background-image:url("background1.jpg");
+    background-size:cover;
+    text-align:center;
+}
+body{
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+
+    box-shadow: 0px 5px 20px 5px rgb(0, 0, 0) inset;
+
+    border-radius:10px;
+    border: 1px solid rgba( 254, 254, 254, 0.18 );
+    width:40%;
+    position:absolute;
+    margin-top:180px;
+    margin-left:450px;
+    align-items:center;
+}
+.heading{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+    font-size: 20px;
+    
+}
+.mssg{
+    margin-left: 100px;
+    margin-bottom:30px;
+    font-family:"Brush Script MT", cursive;
+    font-size: 25px;
+}
+input{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px 100px;
+}
+.img{
+     position:relative;
+     top:30px;
+}
+button{
+    border-radius: 10px;
+}
+.btn{
+    position:relative;
+    left:28%;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+button:hover{
+    background-color:rgb(23, 205, 231);
+}
+#smart-button-container input:hover{
+    background-color: grey;
+}
